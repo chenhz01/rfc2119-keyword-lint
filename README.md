@@ -7,6 +7,8 @@ deliberately (uppercase only), that none are swallowed into longer tokens
 SHOULD statements carry justification — then reports rule-id'd findings.
 Pure standard library. *No direct equivalent found as of 2026-10-13.*
 
+<p align="center"><img src="docs/demo.gif" alt="demo" width="720"></p>
+
 ## Problem
 
 Specs that say "must" in lowercase next to "MUST" in caps are ambiguous by
